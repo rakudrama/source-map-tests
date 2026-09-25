@@ -9,5 +9,5 @@
     "global"
   ],
   "scopes": ["BCAAA,CKA"],
-  "ranges": "ECAAA,FK"
+  "ranges": ["ECAAA,FK"]
 }

@@ -10,5 +10,5 @@
     "block"
   ],
   "scopes": ["BCAAA,BCBAC,CEA,CFA"],
-  "ranges": "ECAAA,EPBAAC,FEA,FFA"
+  "ranges": ["ECAAA,EPBAAC,FEA,FFA"]
 }

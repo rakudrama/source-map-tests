@@ -11,5 +11,5 @@
     "function"
   ],
   "scopes": ["BCAAA,BHBACE,CEA,CFA"],
-  "ranges": "ECAAA,EGCAC,FC,FG"
+  "ranges": ["ECAAA,EGCAC,FC,FG"]
 }

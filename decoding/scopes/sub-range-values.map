@@ -14,5 +14,5 @@
     "x_sub_val2"
   ],
   "scopes": ["BCAAA,DCC,CKA"],
-  "ranges": "ECAAA,GEF,HAADAADG,FK"
+  "ranges": ["ECAAA,GEF,HAADAADG,FK"]
 }

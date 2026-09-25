@@ -17,5 +17,5 @@
     "a_val"
   ],
   "scopes": ["BCAAA,DCCC,BCBAI,DE,CEA,CFA"],
-  "ranges": "ECAAA,GHAI,ECCAC,GJ,FC,FG"
+  "ranges": ["ECAAA,GHAI,ECCAC,GJ,FC,FG"]
 }
